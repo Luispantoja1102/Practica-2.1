@@ -1,4 +1,4 @@
-##Prueba xD
+##  Prueba
 
 
 [Practica OLED Logo](PracticaOled.md)
